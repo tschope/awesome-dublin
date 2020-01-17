@@ -1,0 +1,33 @@
+{
+  "title": "Awesome Berlin",
+  "plugins": [
+    "anchors",
+    "disqus",
+    "edit-link",
+    "ga",
+    "github-buttons",
+    "include"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "awesome-dublin"
+    },
+    "edit-link": {
+      "base": "https://github.com/tschope/awesome-dublin/tree/master",
+      "label": {
+        "en": "Improve this page",
+        "pt-br": "Edite esta página"
+      }
+    },
+    "ga": {
+      "token": "UA-2132931-9"
+    },
+    "github-buttons": {
+      "repo": "tschope/awesome-dublin",
+      "types": [
+        "star"
+      ],
+      "size": "medium"
+    }
+  }
+}
