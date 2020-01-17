@@ -1,4 +1,4 @@
-# Previdência social
+# Previdência social (PPS)
 
 Algumas semanas (2-4) após se inscrever em um seguro de saúde você deverá receber o seu número da previdência social por correio. Caso você tenha urgência você pode enviar um e-mail (ou ligar) para a associação do seu seguro de saúde (ex.: TK) solicitando esse número.
 

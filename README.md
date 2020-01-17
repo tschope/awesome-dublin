@@ -6,7 +6,7 @@ This project is based in [Awesome Berlin](https://github.com/marlonbernardes/awe
 Available in:
 
 - :brazil: [Português](https://tschope.github.io/awesome-dublin/pt-br/)
-- :us: [English](https://tschope.github.io/awesome-dublin/en/)
+- :us: English (Soon...)
 
 # Want to help?
 Contributions are welcome and are greatly appreciated!
