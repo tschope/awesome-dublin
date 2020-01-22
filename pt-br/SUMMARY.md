@@ -17,7 +17,7 @@
     1. [Stamp 1 - De trabalho](/pages/vistos_de_permanencia.md#stamp-1-de-trabalho)
     1. [Stamp 2 - De estudante](/pages/vistos_de_permanencia.md#stamp-2-de-estudante)
     1. [Stamp 3 - Esposo(a)](/pages/vistos_de_permanencia.md#stamp-1-esposoa)
-    1. [Stamp 4](/pages/vistos_de_permanencia.md#stamp-4)
+    1. [Stamp 4](/pages/stamp4.md)
     1. [Outros](/pages/vistos_de_permanencia.md#outros)
 1. [Trabalhando na Irlanda](/pages/visto-de-trabalho.md)
 1. [Mercado de Trabalho](/pages/mercado_de_trabalho.md#mercado_de_trabalho)
