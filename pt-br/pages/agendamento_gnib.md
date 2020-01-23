@@ -8,7 +8,7 @@ O agendamento é necessario apenas se você mora em Dublin, outras cidades você
 
 O site para agendar é esse [Burgh Quay Registration Office](https://burghquayregistrationoffice.inis.gov.ie/) e segue algumas dicas:
 
-- Todo dia as 9:00am (horario de Dublin, GMT +0:00) e as 2:30pm liberam vagas
+- Todo dia as 10:00am (horario de Dublin, GMT +0:00) e as 2:30pm liberam vagas
 - As vagas pela manhã costumam ser 50 dias para frente
 - Então tente se planejar antes de vir para conseguir uma data "fácil"
 - Toda hora pode sair novas datas de pessoas que cancelaram o appointment
