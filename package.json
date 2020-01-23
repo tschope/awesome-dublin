@@ -1,0 +1,40 @@
+{
+  "name": "awesome-dublin",
+  "author": "Rodrigo Tschope <tschope@gmail.com>",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "A guide aiming to help ~~Brazillians~~ everyone to have a successfull start in Berlin!",
+  "homepage": "https://github.com/tschope/awesome-dublin#readme",
+  "scripts": {
+    "clean": "rimraf _book",
+    "contributors:update": "node tasks/generate-contributors.js",
+    "prepare": "gitbook install",
+    "build": "npm run prepare && gitbook build",
+    "start": "npm run prepare && gitbook serve",
+    "docs:publish": "npm run clean && npm run build && cd _book && git init && git commit --allow-empty -m 'npm run publish' && git fetch git@github.com:tschope/awesome-dublin.git gh-pages && git checkout -b gh-pages && git add . && git commit -am 'npm run publish' && git push git@github.com:tschope/awesome-dublin.git gh-pages --force"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tschope/awesome-dublin.git"
+  },
+  "keywords": [
+    "guide",
+    "docs",
+    "Dublin",
+    "Ireland",
+    "expats"
+  ],
+  "devDependencies": {
+    "gitbook-cli": "^2.3.0",
+    "request": "^2.81.0",
+    "rimraf": "^2.5.4"
+  },
+  "dependencies": {
+    "gitbook-plugin-anchors": "^0.7.1",
+    "gitbook-plugin-disqus": "^0.1.0",
+    "gitbook-plugin-edit-link": "^2.0.2",
+    "gitbook-plugin-ga": "^1.0.1",
+    "gitbook-plugin-github-buttons": "^3.0.0",
+    "gitbook-plugin-include": "^0.1.0"
+  }
+}
